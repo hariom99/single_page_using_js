@@ -1,0 +1,20 @@
+.nav ul{
+    list-style: none;
+    color: red;
+    font-size: 40px;
+}
+.nav ul li{
+    margin-left:50px;
+    display: inline-block;
+}
+.about{
+    display: none;
+}
+.contact{
+    
+    display: none;
+}
+
+.nav ul li:hover{
+    cursor: pointer;
+}
